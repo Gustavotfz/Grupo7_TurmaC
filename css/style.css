@@ -55,6 +55,7 @@ main {
 figure {
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 80%;
     min-width: 70%;
     min-height: 6rem;
@@ -73,4 +74,16 @@ figure {
     border: 0.1rem solid black;
     margin: 1rem;
     border-radius: 0.5rem;
+}
+
+.propiedade{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    min-width: 80%;
+    min-height: 5rem;
+    border: 0.1rem solid black;
+    margin: 1rem;
 }
