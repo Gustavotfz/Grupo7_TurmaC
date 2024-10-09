@@ -90,4 +90,11 @@ figure {
 
 h1, h2, p {
     font-family: 'Montserrat', sans-serif;
+}   
+
+.grafico{
+    display: flex;
+    border: 0;
+    margin: 1rem;
+
 }
