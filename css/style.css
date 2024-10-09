@@ -3,13 +3,19 @@ header{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-
 }
  
 footer {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+header a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
 }
 
