@@ -94,6 +94,9 @@ h1, h2, p {
     font-family: 'Montserrat', sans-serif;
 }   
 
+h2 {
+    font-weight: bold; 
+}
 .grafico{
     display: flex;
     border: 0;
