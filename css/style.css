@@ -3,6 +3,7 @@ header{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    top: 3%;
 }
  
 footer {
