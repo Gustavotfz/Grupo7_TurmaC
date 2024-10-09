@@ -48,3 +48,14 @@ main {
     justify-content: flex-start;
     align-items: center;
 }
+
+figure {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    min-width: 70%;
+    min-height: 10rem;
+    border: 0.1rem solid black;
+    margin: 1rem;
+    border-radius: 1%;
+}
