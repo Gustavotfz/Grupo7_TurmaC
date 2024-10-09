@@ -62,3 +62,15 @@ figure {
     margin: 1rem;
     border-radius: 0.5rem;
 }
+
+.lote {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 30%;
+    min-width: 30%;
+    min-height: 6rem;
+    border: 0.1rem solid black;
+    margin: 1rem;
+    border-radius: 0.5rem;
+}
