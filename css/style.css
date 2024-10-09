@@ -86,3 +86,7 @@ figure {
     border: 0.1rem solid black;
     margin: 1rem;
 }
+
+h1, h2, p {
+    font-family: 'Montserrat', sans-serif;
+}
