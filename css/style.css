@@ -1,6 +1,10 @@
 html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif; /*Como nosso app só tem textos curtos*/
 }
+/*Nossa fonte escolhida para textos longos (que não existem no nosso app hoje):*/
+/*.txt_l {
+    font-family: 'Garamond', serif;
+}*/
 
 header {
     display: flex;
