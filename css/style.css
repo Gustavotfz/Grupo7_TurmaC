@@ -75,6 +75,7 @@ figure.botao {
     border-radius: 0.5rem;
     margin: 1rem 0;
     cursor: pointer;
+    background-color: #8fdb92;
 }
 
 h1, h2, p {
