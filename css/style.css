@@ -1,5 +1,6 @@
 html {
     font-family: 'Montserrat', sans-serif; /*Como nosso app só tem textos curtos*/
+    background-color: #BDBDBD;
 }
 /*Nossa fonte escolhida para textos longos (que não existem no nosso app hoje):*/
 /*.txt_l {
@@ -13,7 +14,7 @@ header {
     align-items: center; 
     position: relative; 
     top: 3%;
-    height: 50px; 
+    height: 3rem; 
 }
  
 footer {
@@ -42,7 +43,7 @@ article{
     width: 80%;
     min-width: 70%;
     min-height: 6rem;
-    border: 0.1rem solid black;
+    border: 0.1rem solid #424242;
     margin: 1rem;
     border-radius: 1%;
 }
@@ -113,7 +114,7 @@ h2 {
 }
 
 .botao-header {
-    background-color: #4CAF50; 
+    background-color: #2196F3; 
     color: white; 
     padding: 10px 20px; 
     text-align: center;
