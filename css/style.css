@@ -76,30 +76,6 @@ figure.botao {
     cursor: pointer;
 }
 
-.lote {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    width: 30%;
-    min-width: 30%;
-    min-height: 6rem;
-    border: 0.1rem solid black;
-    margin: 1rem;
-    border-radius: 0.5rem;
-}
-
-.propiedade{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 30%;
-    min-width: 80%;
-    min-height: 5rem;
-    border: 0.1rem solid black;
-    margin: 1rem;
-}
-
 h1, h2, p {
     font-family: 'Montserrat', sans-serif;
 }   
