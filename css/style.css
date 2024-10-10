@@ -44,7 +44,7 @@ article{
     width: 80%;
     min-width: 70%;
     min-height: 6rem;
-    border: 0.1rem solid #424242;
+    border: 0.1rem solid #1e1e1e;
     margin: 1rem;
     border-radius: 1%;
     background-color: #c7c7c7  ; 
@@ -71,8 +71,8 @@ figure.botao {
     align-items: center;
     padding: 1rem;
     text-align: center;
-    background-color: #f1f1f1;
-    border: 0.1rem solid #424242;
+    background-color: #c7c7c7;
+    border: 0.1rem solid #1e1e1e;
     border-radius: 0.5rem;
     margin: 1rem 0;
     cursor: pointer;
