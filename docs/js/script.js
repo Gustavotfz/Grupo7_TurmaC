@@ -14,8 +14,8 @@ window.onload = function () {
         popup.style.zIndex = '1000';
 
         popup.innerHTML = `
-            <h2>Bem-vindo ao Painel do Fazendeiro!</h2>
-            <p>Confira as últimas novidades sobre sua propriedade.</p>
+            <h2>Aviso!</h2>
+            <p>A umidade da plantação passou dos 15%!</p>
             <button id="closePopup" style="padding: 0.5rem 1rem; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer;">
                 Fechar
             </button>
